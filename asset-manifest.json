@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Cancer-Awareness-Support/static/css/main.938e9a7f.css",
-    "main.js": "/Cancer-Awareness-Support/static/js/main.77e54a96.js",
+    "main.js": "/Cancer-Awareness-Support/static/js/main.61908baf.js",
     "static/js/453.9799b89c.chunk.js": "/Cancer-Awareness-Support/static/js/453.9799b89c.chunk.js",
     "static/media/Landingimg.jpg": "/Cancer-Awareness-Support/static/media/Landingimg.2c39e83550b5904c3138.jpg",
     "index.html": "/Cancer-Awareness-Support/index.html",
     "main.938e9a7f.css.map": "/Cancer-Awareness-Support/static/css/main.938e9a7f.css.map",
-    "main.77e54a96.js.map": "/Cancer-Awareness-Support/static/js/main.77e54a96.js.map",
+    "main.61908baf.js.map": "/Cancer-Awareness-Support/static/js/main.61908baf.js.map",
     "453.9799b89c.chunk.js.map": "/Cancer-Awareness-Support/static/js/453.9799b89c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.938e9a7f.css",
-    "static/js/main.77e54a96.js"
+    "static/js/main.61908baf.js"
   ]
 }
